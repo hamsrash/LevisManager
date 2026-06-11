@@ -1,0 +1,5 @@
+1001;Joseson;Administrador;90000.00
+1002;Pancho;Empleado;60000.00
+1003;Victoria;Administrador;85000.00
+1004;Eustorgio;Empleado;58888.00
+1000;cam;gerente;15000.00

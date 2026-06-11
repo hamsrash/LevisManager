@@ -1,0 +1,3 @@
+/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir
+/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

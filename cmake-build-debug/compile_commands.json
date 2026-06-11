@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/LevisManager.dir/main.c.o -c \"/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/main.c\"",
+  "file": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/main.c",
+  "output": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir/main.c.o"
+},
+{
+  "directory": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/LevisManager.dir/empleados.c.o -c \"/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/empleados.c\"",
+  "file": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/empleados.c",
+  "output": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir/empleados.c.o"
+},
+{
+  "directory": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/LevisManager.dir/archivos.c.o -c \"/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/archivos.c\"",
+  "file": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/archivos.c",
+  "output": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir/archivos.c.o"
+},
+{
+  "directory": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/LevisManager.dir/productos.c.o -c \"/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/productos.c\"",
+  "file": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/productos.c",
+  "output": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir/productos.c.o"
+},
+{
+  "directory": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/LevisManager.dir/menus.c.o -c \"/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/menus.c\"",
+  "file": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/menus.c",
+  "output": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir/menus.c.o"
+},
+{
+  "directory": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/LevisManager.dir/ventas.c.o -c \"/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/ventas.c\"",
+  "file": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/ventas.c",
+  "output": "/home/hamsrash/Documents/UNI Essentials/P Estructurada/LevisManager/cmake-build-debug/CMakeFiles/LevisManager.dir/ventas.c.o"
+}
+]
